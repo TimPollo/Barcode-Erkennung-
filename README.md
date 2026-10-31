@@ -1,2 +1,0 @@
-# Barcode-Erkennung-
-Barcode Erkennung 
